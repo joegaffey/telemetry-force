@@ -1,5 +1,5 @@
 # Telemetry Force
-Converts telemetry data from games to FFB signals.
+Converts sim racing telemetry data from games to FFB signals.
 
 ## Summary:
 ✅ Connects to a USB force feedback steering wheel via SDL2  
