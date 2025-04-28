@@ -1,7 +1,7 @@
 # Telemetry Force
 Converts telemetry data from games to FFB signals.
 
-## Summary of What This Program Does:
+## Summary:
 ✅ Connects to a USB force feedback steering wheel via SDL2  
 ✅ Receives telemetry from the game: OutSim in Live for Speed to start  
 ✅ Parses UDP packets into position, heading, velocity, wheel speeds  
